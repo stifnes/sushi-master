@@ -1,4 +1,4 @@
-# Sushi-Master
+# Sushi-Master [Click here to see the demo](https://jovial-elion-2c016e.netlify.app/) 
 ```
 --- This project contains a representation of the shopping cart list for a sushi restaurent.
 --- User can add items in the cart.
