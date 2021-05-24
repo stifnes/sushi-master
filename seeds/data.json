@@ -1,0 +1,25 @@
+{
+  "size_multipliers": {
+    "Small": 0.7,
+    "Medium": 1.0,
+    "Large": 1.3
+  },
+  "sushi_box" : [
+      {
+      "name": "Maki",
+      "price": 5.0,
+      "description": "Cucumber, Asparagus"
+    },
+      {
+      "name": "Nigiri",
+      "price": 6.0,
+      "description": "Avocado, Salmon"
+    },
+    {
+      "name": "Sashimi",
+      "price": 8.0,
+      "description": "Fresh Salmon, optional with Tuna"
+    }
+  ],
+  "vat": 0.07
+}
